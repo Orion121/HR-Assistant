@@ -34,6 +34,5 @@ This project is an intelligent HR assistant built using **LangChain**, **Google 
 
 ---
 
-## 📂 File Structure
 
 
