@@ -1,4 +1,4 @@
-# 🤖 HR Assistant with Email Automation, Policy Q&A, and Resume Scoring
+# 🤖 HR Assistant
 
 This project is an intelligent HR assistant built using **LangChain**, **Google Gemini**, and **Streamlit**. It automates key HR functions including policy-based Q&A, email communication, and resume evaluation — all in a single interactive interface.
 
